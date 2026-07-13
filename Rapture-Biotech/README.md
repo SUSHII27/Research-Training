@@ -42,4 +42,3 @@ Completed foundational laboratory training covering molecular biology, biochemis
 
 - 📄 Training Report
 - 📜 Certificate
-- 🖼 Report
