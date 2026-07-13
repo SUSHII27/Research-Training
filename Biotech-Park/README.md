@@ -50,4 +50,4 @@ Scientist Grade B
 
 - 📄 Training Report
 - 📜 Certificate
-- 🖼 Images
+- 🖼 Report
